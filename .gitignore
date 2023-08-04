@@ -1,3 +1,10 @@
+.bsp/
+.bloop
+.metals
+project
+# https://github.com/scalameta/metals/issues/2451
+null 
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
